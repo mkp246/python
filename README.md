@@ -1,2 +1,2 @@
 # python
-learning python from plural sight tutorails
+learning python from plural sight tutorials
