@@ -97,7 +97,7 @@ def run_pipeline():
         print(item)
 
 
-if __name__ =='__main__':
+if __name__ == '__main__':
     run_take()
     run_distinct()
     run_pipeline()
